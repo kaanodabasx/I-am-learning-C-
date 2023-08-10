@@ -43,7 +43,7 @@ int main(int argc, const char * argv[]) {
     first_lastZ(n);
     printf("\n\n");
     
-    E1(n);
+
 }
 
 
